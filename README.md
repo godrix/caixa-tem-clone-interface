@@ -44,8 +44,8 @@ This project was developed with the following technologies:
 
 - [React Native](https://facebook.github.io/react-native/)
   - [Expo](https://expo.io/)
-    [styled-components](https://styled-components.com/)
-    [Lottie](https://github.com/react-native-community/lottie-react-native)
+  - [styled-components](https://styled-components.com/)
+  - [Lottie](https://github.com/react-native-community/lottie-react-native)
 
 
 ## 🤝 Contributing
