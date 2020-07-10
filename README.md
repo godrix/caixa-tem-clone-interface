@@ -38,11 +38,6 @@
 
 Caixa Tem bank interface reproduction
 
-<h1 align="center">
-    <img alt="Aplication example" title="Aplication" src=".github" width="500px" />
-</h1>
-
-
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
